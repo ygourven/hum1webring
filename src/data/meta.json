@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "100% human-generated content Webring",
+    "description": "A webring of likeminded website owners who feel they'd rather write their blog posts by themselves rather than ask ChatGPT to do it.",
+    "image": "Line art tree couleur very small.png",
+    "url": "https://100pchuman.netlify.com",
+    "repo": "https://github.com/ygourven/hum1webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Yann Gourvennec",
+            "url": "https://github.com/ygourven"
         }
     ]
 }
